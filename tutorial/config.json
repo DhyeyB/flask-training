@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql+mysqlconnector://root:password@localhost/blog",
+        "prod_uri": "mysql+mysqlconnector://root:password@localhost/blog",
+        "fb_url": "https://www.facebook.com/profile.php?id=100009176639120",
+        "twt_url": "https://www.facebook.com/profile.php?id=100009176639120",
+        "gh_url": "https://github.com/DhyeyB",
+        "blog_name": "Dhyey's Blog",
+        "gmail-user": "dhyey.apple@gmail.com",
+        "gmail-password": "hikm wuwo ufle kife",
+        "no_of_posts": 2,
+        "login_img": "login.svg",
+        "admin_user": "dhyey",
+        "admin_password": "password"
+    }
+}
